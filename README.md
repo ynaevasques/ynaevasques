@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ynaevasques
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/yna%C3%AA-vasques-b05b94211/
 
 <!---
